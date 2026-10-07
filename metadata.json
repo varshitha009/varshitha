@@ -1,0 +1,6 @@
+{
+  "name": "AI Data Workspace",
+  "description": "Turn raw spreadsheets and data into clear insights, interactive dashboards, and executive presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
